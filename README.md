@@ -1,5 +1,6 @@
 # Ahorcado
 
+![alt text](https://github.com/germankuber/Patrones-Para-Mortales-Hangman/blob/master/ahorcado.jpg "Ahorcado")
 
 ### Descripción
 El juego del Ahorcado de MagnoJuegos sigue las reglas del juego clásico. Sin embargo, los jugadores competirán entre sí para hacer más puntos en el juego.
@@ -17,7 +18,6 @@ El juego del Ahorcado consiste de 5 partidas, cada una con una palabra para desc
 
 Vence el juego quien haya acumulado el mayor número de puntos en las 5 parti
 
-![alt text](https://github.com/germankuber/Patrones-Para-Mortales-Hangman/blob/master/ahorcado.jpg "Ahorcado")
 
 ### Video
 
