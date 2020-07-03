@@ -16,7 +16,7 @@ El juego del Ahorcado consiste de 5 partidas, cada una con una palabra para desc
 
 ### Vencedor
 
-Vence el juego quien haya acumulado el mayor número de puntos en las 5 parti
+Vence el juego quien haya acumulado el mayor número de puntos en las 5 partidas
 
 
 ### Video
